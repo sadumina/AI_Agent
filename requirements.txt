@@ -1,0 +1,7 @@
+openai==1.*
+duckduckgo-search==6.*
+trafilatura==1.*
+pypdf==5.*
+tavily-python==0.*
+python-dotenv==1.*
+requests==2.*
