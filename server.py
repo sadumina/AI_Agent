@@ -9,7 +9,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
-from agent_starter import search_web, fetch_text, synthesize_with_openai, clip, local_extractive_summary
+from agent.agent_starter import search_web, fetch_text, synthesize_with_openai, clip, local_extractive_summary
 
 load_dotenv(override=True)
 
