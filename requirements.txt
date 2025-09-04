@@ -5,3 +5,4 @@ pypdf==5.*
 tavily-python==0.*
 python-dotenv==1.*
 requests==2.*
+aiolimiter==1.*
